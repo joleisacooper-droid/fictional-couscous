@@ -1,0 +1,21 @@
+{
+  "name": "pynk-website",
+  "version": "1.0.0",
+  "description": "PYNK - Built on purpose. Driven by passion. Created for generations.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/react": "^18.0.0",
+    "@types/node": "^18.0.0"
+  }
+}
